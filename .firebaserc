@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "default": "bip-projects"
+  },
+  "targets": {
+    "bip-projects": {
+      "hosting": {
+        "jembalang": [
+          "jembalang"
+        ],
+        "ttt": [
+          "task_time_tracker"
+        ],
+        "task-time-tracker-uthm": [
+          "task-time-tracker-uthm"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

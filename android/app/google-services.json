@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638778848216",
+    "project_id": "bip-projects",
+    "storage_bucket": "bip-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638778848216:android:70e4b78c090b4b5d9d38ad",
+        "android_client_info": {
+          "package_name": "com.tasktimetracker.task_time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638778848216-aolbj6shrqi4ma9ikhqla9k7njl9ek00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpdpVYDvt0nXKoRIRZN6oQW8s-KHPBfmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638778848216-aolbj6shrqi4ma9ikhqla9k7njl9ek00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
